@@ -44,12 +44,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-wechat-mini.git"
+    "url": "git+https://github.com/WangXXD/egg-wechat-mini.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/WangXXD/egg-wechat-mini/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-wechat-mini#readme",
+  "homepage": "https://github.com/WangXXD/egg-wechat-mini#readme",
   "author": "wangxb",
   "license": "MIT"
 }
