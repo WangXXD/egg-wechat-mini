@@ -53,6 +53,12 @@ see [config/config.default.js](config/config.default.js) for more detail.
 ## Example
 
 <!-- example here -->
+```js
+// Direct call like this
+app.weChatMini.code2Session(code)
+```
+
+see [lib/createClient.js](lib/createClient.js) for more funs.
 
 ## Questions & Suggestions
 
