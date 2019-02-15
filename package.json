@@ -1,6 +1,6 @@
 {
   "name": "egg-wechat-mini",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "wx miniprogram dev",
   "eggPlugin": {
     "name": "wechatMini"
@@ -10,7 +10,9 @@
     "eggPlugin",
     "egg-plugin"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "egg-redis": "^2.3.0"
+  },
   "devDependencies": {
     "autod": "^3.0.0",
     "autod-egg": "^1.0.0",
